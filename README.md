@@ -127,7 +127,7 @@ Collaborate with public health departments
 
 Enable offline alerts for rural areas
 
-🤝 Contributing
+🤝🏻 Contributing
 
 We welcome contributions to improve HealthGuard AI!
 Please read CONTRIBUTING.md and open a Pull Request with your improvements.
@@ -136,4 +136,10 @@ Please read CONTRIBUTING.md and open a Pull Request with your improvements.
 
 Licensed under the MIT License. See the LICENSE file for full details.
 
+👍🏻 Support
+For support, collaboration, or demo requests, reach out at:
+  
+📧 mkshambhavi966@gmail.com
+  
+🌐 GitHub: https://github.com/ShambhaviCode
 
