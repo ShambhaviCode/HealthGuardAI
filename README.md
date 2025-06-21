@@ -113,20 +113,7 @@ Prerequisites
 - MongoDB >= 4.0.0  
 - Python >= 3.8  
 
-Installation
-```bash
-git clone https://github.com/yourusername/HealthGuard-AI.git
-cd healthguard-ai
 
-# Frontend
-cd frontend
-npm install
-npm run dev
-
-# Backend
-cd ../backend
-pip install -r requirements.txt
-python app.py
 
 🧩 Future Scope
 
