@@ -127,3 +127,26 @@ npm run dev
 cd ../backend
 pip install -r requirements.txt
 python app.py
+
+🧩 Future Scope
+
+Integrate social determinants (income, housing, education)
+
+Partner with wearables (Fitbit, Garmin, etc.)
+
+Use LLMs for deeper patient engagement
+
+Collaborate with public health departments
+
+Enable offline alerts for rural areas
+
+🤝 Contributing
+
+We welcome contributions to improve HealthGuard AI!
+Please read CONTRIBUTING.md and open a Pull Request with your improvements.
+
+📄 License
+
+Licensed under the MIT License. See the LICENSE file for full details.
+
+
