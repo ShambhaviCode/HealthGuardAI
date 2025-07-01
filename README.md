@@ -140,7 +140,7 @@ Licensed under the MIT License. See the LICENSE file for full details.
 
 For support, collaboration, or demo requests, reach out at:
   
-📧 mkshambhavi966@gmail.com
+
   
 🌐 GitHub: https://github.com/ShambhaviCode
 
